@@ -1,0 +1,2 @@
+# mini-version
+AI app
